@@ -35,7 +35,7 @@ source('Step1-Read-Data-Formatting.R')
 ##3) Thematic Visualization: Transition Maxtrix
 ##4) Label SpatioTemporal-Thematic (ST-T) groups and decide interpolation rule
 
-source('Step2-Data-Completeness.R')
+source('Step2-Data-Incompleteness.R')
 source('Step3-Temporal-Inconsistency.R')
 source('Step4-Spatial-Inconsistency.R')
 source('Step5-Attribute-Redundancy.R')
