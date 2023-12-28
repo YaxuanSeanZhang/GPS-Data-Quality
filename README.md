@@ -1,4 +1,4 @@
-# GPS Activity–Travel Survey Quality Postprocessing
+# GPS Data Quality
 
 ## Overview
 This repository designs a data-driven postprocessing pipeline aimed at enhancing the data quality of smartphone-based activity–travel survey data. 
