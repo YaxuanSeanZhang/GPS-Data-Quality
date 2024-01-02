@@ -19,7 +19,6 @@ The repository contains the following key files and scripts:
 * `Step6-Evaluation.R`: This script evaluates the effectiveness of the proposed postprocessing framework and methods by comparing raw data to processed data.
 * `_Functions_.R`: This script defines several functions that can be reused throughout the postprocessing pipeline.
 * `PostProcessing-Pipeline.R`: This script integrates the entire data postprocessing into a seamless workflow.
-* Some example visualization plots can be accessed in the dir `/Example Visualization`
 
 ## Future Work
 At present, the code serves the purpose of presenting results and visualizations for the published paper. 
